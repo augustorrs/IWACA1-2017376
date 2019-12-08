@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cafemenu>
+  <section name="STARTER">
+    <entree>
+      <item>Bruschetta Con Pomodoro</item>
+      <desc>Toasted Tuscan bread with sun-ripened beef tomatoes.</desc>
+      <price>7</price>
+    </entree>
+    <entree>
+      <item>Caesar Salad</item>
+      <desc>Crispy green leaves, pancetta and croutons tossed in our homemade dressing topped with fresh parmesan. roasted.</desc>
+      <price>8</price>
+    </entree>
+    <entree>
+      <item>Antipasto Alla Italiano (Serves 2)</item>
+      <desc>Selection of cured meats, Italian cheese, sun-dried tomatoes with pickled home-grown vegetables.Served with our homemade bread.</desc>
+      <price>16</price>
+    </entree>
+    <entree>
+      <item>Calamari Fresca</item>
+      <desc>Fresh pan-fried calamari,fresh garlic lightly tossed in herbs.</desc>
+      <price>8</price>
+    </entree>
+    <entree>
+      <item>Sfere Di Carne</item>
+      <desc>Meatballs marinated to a traditional Tuscan recipe, served in our authenic tomato sauce with mozzarella cheese served with garlic bread. roasted.</desc>
+      <price>9</price>
+    </entree>
+  </section>
+  <section name="FISH">
+    <entree>
+      <item>Filetto Scottato Di Spigola</item>
+      <desc>Seared fillet of Sea bass with lemon mash and roast vegetable ratatouille</desc>
+      <price>25</price>
+    </entree>
+    <entree>
+      <item>Trota Al Forno con Salsa</item>
+      <desc>Baked trout with almonds in Italian style salsa served with grilled baby potatoes and courgettes.</desc>
+      <price>22</price>
+    </entree>
+    <entree>
+      <item>Salmone Al Puttanesca</item>
+      <desc>Irish salmon,tomato,capers,chilli,olives and pepperoni pincante with baby potatoes.</desc>
+      <price>22</price>
+    </entree>
+  </section>
+  <section name="MEAT">
+    <entree>
+      <item>Ribeye Steak 10oz</item>
+      <desc>Prime 10oz Irish grilled sirloin steak with creamed brandy peppercorn sauce or garlic herb butter.</desc>
+      <price>28.95</price>
+    </entree>
+    <entree>
+      <item>Bistecca Di Manzo (M)(SP)</item>
+      <desc>Prime 10oz Irish grilled Sirloin Steak served with creamed brandy peppercorn sauce or garlic herb butter.</desc>
+      <price>26.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Filetto Di Manzo</item>
+      <desc>Charcoal grilled 8oz of fillet steak, served with creamed brandy peppercorn sauce or garlic herb butter.</desc>
+      <price>28.95</price>
+    </entree>
+  </section>
+  <section name="CHICKEN">
+    <entree>
+      <item>Pollo Alla Diavola Al Limone</item>
+      <desc>Free-range Irish chicken fillet marinated in fresh lemon and herbs, cooked over a charcoal grill.(LF)</desc>
+      <price>17.95</price>
+    </entree>
+    <entree>
+      <item>Polla Alla Florentina</item>
+      <desc>Free-range Irish chicken fillet cooked delightfully in a field mushroom sauce.</desc>
+      <price>18.95</price>
+    </entree>
+    <entree>
+      <item>Polla alla Toscana</item>
+      <desc>Chicken supreme with spinach, three cheeses, wrapped in Parmaham, white wine and mustard cream.</desc>
+      <price>19.50</price>
+    </entree>
+  </section>
+  <section name="PIZZA">
+    <entree>
+      <item>Margherita</item>
+      <desc>Mozzarella cheese. (V)</desc>
+      <price>11.50</price>
+    </entree>
+    <entree>
+      <item>Fionentina</item>
+      <desc>Spinach, egg, black olives and garlic.(V)</desc>
+      <price>15.95</price>
+    </entree>
+    <entree>
+      <item>Calzone</item>
+      <desc>Folded and filled with ham, mushrooms, onions.</desc>
+      <price>15.95</price>
+    </entree>
+    <entree>
+      <item>Super Skinny</item>
+      <desc>Avocado, reduced fat mozzarella, sun dried tomatoes, rocket salad and basil leaves. (LF)</desc>
+      <price>15.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Diavola</item>
+      <desc>Jalapeno peppers, chorizo and fresh Parmesan.</desc>
+      <price>16.50</price>
+    </entree>
+  </section>
+  <section name="DESSERT">
+    <entree>
+      <item>Tiramisu</item>
+      <desc>A traditional homemade “pick me up” biscuit in coffee liqueur with mascarpone cream. Exelente!</desc>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>Apple and Berry Crumble</item>
+      <desc>Homemade apple and berry crumble oven baked with cinnamon,topped with crunchy oat crumble served warm with fresh cream or vanilla ice cream.</desc>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>Doppia Torta al Cioccolate</item>
+      <desc>Exceedingly tasty double chocolate fudge cake served warm with fresh cream or vanilla ice cream. Perfect for all chocolate lovers.</desc>
+      <price>6.50</price>
+    </entree>
+    <entree>
+      <item>Profiteroles</item>
+      <desc>Choux pastry filled with fresh cream and smothered in chocolate sauce.</desc>
+      <price>6.50</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Misto di Formaggio</item>
+      <desc>Selection of our finest Italian cheeses.</desc>
+      <price>8.50</price>
+    </entree>
+  </section>
+</cafemenu>
